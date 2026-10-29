@@ -1,0 +1,193 @@
+{
+  "slug": "le-pen-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 270,
+  "first": "2026-10-14",
+  "last": "2026-10-28",
+  "exact_time": 270,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies",
+      "sha256": "09acc0cb8d6edfdb03388e15dacda440556ce6e303115ba6972a64e99f5e2588",
+      "timeline_items": 20,
+      "accepted": 11,
+      "excluded": {
+        "repost": 9
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__-sLAAIAAAATMjExNDQ2NTM4MzE2NDEwNDk4OQgAAwAAAAIAAA",
+      "sha256": "f9830c795e269dd5945db0621fb90093118bab299aed75bca75a6b7abb87bc28",
+      "timeline_items": 21,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__9YLAAIAAAATMjExNDQyNzM2NzY1MzM2MDA3NQgAAwAAAAIAAA",
+      "sha256": "1a1525559253d82fdc9c9b6d153defccb7e6b24683d37c42b81070d4ceaf21f1",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__8ELAAIAAAATMjExNDQyMTU0NDYyMTM4NzkwNwgAAwAAAAIAAA",
+      "sha256": "163cd5c1d9b4ca61d0011dba8afea5f23b1af1cdc1687353f1af767c448b6d78",
+      "timeline_items": 21,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__6wLAAIAAAATMjExNDM1NzI0ODkzMTgwNzM0NggAAwAAAAIAAA",
+      "sha256": "bf830ac510af445c0a59c9878489a304ee84ba36e6b81d08d5a2e2d14b79f53f",
+      "timeline_items": 21,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 7
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__5cLAAIAAAATMjExNDI2MTMzMTcxNzM3Mzk1OAgAAwAAAAIAAA",
+      "sha256": "0cfb3c1e4469bcae11440bfddf4b5668f599b7df43f78f4790629f96bfb42ae3",
+      "timeline_items": 21,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__4ILAAIAAAATMjExMzk1MTc4MDM3MTY2ODk5MggAAwAAAAIAAA",
+      "sha256": "329a5aabd4434232aa0857ed891b84ba8d8a086268f6c2d6c6d70b5fee88647c",
+      "timeline_items": 21,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__20LAAIAAAATMjExMzU0NzA1NTc5Njc4OTQzNQgAAwAAAAIAAA",
+      "sha256": "7df9fb08a00b84ce39b2796782792c66068311855d8f3bc1f400594955bde7ee",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__1gLAAIAAAATMjExMzUzNDg5MjAwOTAyOTY4NAgAAwAAAAIAAA",
+      "sha256": "705dde65b76217b4c85d208a374fa5a2f58a385226514584cdfaf9062b79f897",
+      "timeline_items": 20,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__0QLAAIAAAATMjExMjgwMTExNzg0MzE0MDk2MwgAAwAAAAIAAA",
+      "sha256": "833cb572623ba009f598b4c52eb691e1c0dbd3adf2d4f44df368b9eb5ae675e5",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__y8LAAIAAAATMjExMDg0NDEzODkyNTIwNzk2OQgAAwAAAAIAAA",
+      "sha256": "9803e5591b8b1fcc27b60de4f00e47c0d1b8cc7440ea5c4ba88176a6038949e5",
+      "timeline_items": 20,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__xsLAAIAAAATMjExMDgzNzI3NjM4NTA5NTkzNAgAAwAAAAIAAA",
+      "sha256": "cd1c7d3dd5131f177a881acc150e4b4f93a524c7a0db8d7917a3e0db4fd98b53",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__wYLAAIAAAATMjExMDgyNzAyNTM4NDQ4OTM2NggAAwAAAAIAAA",
+      "sha256": "2462c5f163cc7ba9f7f93e728ca7ca815ed011da74a23778cec142b1e20e1f4d",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__vELAAIAAAATMjExMDgxMzEzOTI3NzMzMjkyNQgAAwAAAAIAAA",
+      "sha256": "6d7af5c81dc6427f95c6e40701c0547a336cac6b63fee4711b0f35f11fdbda83",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__twLAAIAAAATMjExMDQ1OTU3Mjk1MTY5MTcwNAgAAwAAAAIAAA",
+      "sha256": "77aabf7de0a4a7c594c43443598d01f85245603c98a8d4a44d0e5646c86b62cc",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/MLP_officiel/with_replies?cursor=DAAHCgABHVwY1-x__scLAAIAAAATMjExMDQxNTIxMzEwMzM4MjYxMQgAAwAAAAIAAA",
+      "sha256": "caf2e472486ac70c360472d233a8e420705ba2038f89f5760ffcab29dde9df06",
+      "timeline_items": 1,
+      "accepted": 0,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    }
+  ],
+  "excluded": {
+    "repost": 28,
+    "missing-author-or-permalink": 15
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand.",
+  "subject": "Marine Le Pen",
+  "account": "MLP_officiel",
+  "platform_counts": {
+    "x": 270
+  },
+  "days": 14,
+  "months": 1,
+  "content_mode": "official_embeds"
+}

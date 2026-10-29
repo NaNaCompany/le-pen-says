@@ -1,0 +1,22 @@
+{
+  "slug": "le-pen-says",
+  "name": "Le Pen Says",
+  "wordmark": "LE PEN",
+  "subject": "Marine Le Pen",
+  "handle": "MLP_officiel",
+  "initials": "ML",
+  "color": "#726184",
+  "profile": "https://x.com/MLP_officiel",
+  "origin": "https://nanalab.kr/le-pen-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}
